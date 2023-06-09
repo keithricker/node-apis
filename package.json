@@ -1,0 +1,19 @@
+{
+  "name": "apis",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "cross-domain-request": "^1.0.2-0",
+    "cross-fetch": "^3.1.6",
+    "dotenv-expand": "^10.0.0",
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
